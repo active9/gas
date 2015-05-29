@@ -1,5 +1,5 @@
 /*
- * gas - Garbage Assessment System
+ * gas - Garbage Aggregation System
  */
 
 module.exports = require("./lib/gas.js");
